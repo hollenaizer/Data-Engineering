@@ -1,0 +1,9 @@
+pandas
+openpyxl
+dask[dataframe]
+sqlalchemy
+pymysql
+requests
+flask
+python-dotenv
+aiohttp

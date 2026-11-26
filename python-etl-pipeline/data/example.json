@@ -1,0 +1,20 @@
+[
+    {
+        "customer_id": 1,
+        "customer_name": "John",
+        "age": 28,
+        "city": "Johannesburg"
+    },
+    {
+        "customer_id": 2,
+        "customer_name": "Mary",
+        "age": 35,
+        "city": "Pretoria"
+    },
+    {
+        "customer_id": 3,
+        "customer_name": "Peter",
+        "age": 42,
+        "city": "Durban"
+    }
+]
